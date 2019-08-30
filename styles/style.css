@@ -4,6 +4,11 @@
 body {
     height: 100%;
     margin: 0;
+    background-color: black;
+}
+
+h2 {
+    color: white;
 }
 
 
@@ -20,7 +25,7 @@ body {
     /* Stay on top */
     top: 0;
     left: 0;
-    background-color: rgb(131, 131, 131);
+    background-color: black;
     /* Black*/
     overflow-x: hidden;
     /* Disable horizontal scroll */
@@ -66,7 +71,7 @@ body {
 .openbtn {
     font-size: 15px;
     cursor: pointer;
-    background-color: rgb(131, 131, 131);
+    background-color: black;
     color: white;
     padding: 10px 15px;
     border: none;
