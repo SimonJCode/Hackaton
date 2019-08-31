@@ -7,7 +7,8 @@ body {
     background-color: black;
 }
 
-h2 {
+h2,
+h3 {
     color: white;
 }
 
@@ -115,7 +116,13 @@ iframe {
     margin: 20px;
 }
 
-#figureWinter {
-    position: absolute;
-    left: 500px;
+#picture {
+    float: right;
+}
+
+#content {
+    width: 600px;
+    height: 600px;
+    margin: 10px;
+    color: white;
 }
